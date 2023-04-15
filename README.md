@@ -1,10 +1,8 @@
 # 💫 About Me:
 🌱Currently I'm studing.<br>📚Knoweledge is power.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/9somesh) 
-
 <img align="right" alt="programming" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💻 Tech Stack:
