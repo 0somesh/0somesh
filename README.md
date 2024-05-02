@@ -4,7 +4,7 @@ I'm on the road to Web3
 
 ## 💻 My Stack
 
-`HTML` `CSS` `JavaScript` `React` `Material-UI` `React Hooks` `Python` `SQL` `Django` `Power BI`
+`HTML` `CSS` `JavaScript` `Typescript` `React` `Material-UI` `React Hooks` `Python` `SQL` `Django` `Power BI`
 
 ## 📫 Contact
 
