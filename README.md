@@ -8,4 +8,4 @@ I'm on the road to Web3
 
 ## 📫 Contact
 
- For a quick response, DM me on [X] (https://twitter.com/0somesh)). 
+ For a quick response, DM me on [X](https://twitter.com/0somesh). 
