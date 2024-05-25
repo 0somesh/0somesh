@@ -1,6 +1,6 @@
 ### Yo! I'm Somesh 🤙  
 
-I'm on the road to Web3
+Take risks
 
 ## 💻 My Stack
 
