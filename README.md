@@ -4,7 +4,7 @@ Take risks
 
 ## 💻 My Stack
 
- `Typescript` `React` `Python` `SQL` `Django`  
+ `JavaScript` `React` `Python` `SQL` `Django`  
 
 ## 📫 Contact
 
