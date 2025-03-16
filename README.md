@@ -1,6 +1,6 @@
 ### Yo! I'm Somesh 🤙  
 
-Take risks
+Take risks                                    
 
 ## 💻 My Stack
 
@@ -12,4 +12,4 @@ Take risks
   <img align="right" alt="NoImage Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>
 </a>
 
- 
+             
